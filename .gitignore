@@ -1,0 +1,9 @@
+Binaries/
+Intermediate/
+Saved/
+Temp/
+
+.vscode/
+
+*.sln
+*.vcxproj
